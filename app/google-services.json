@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94987968791",
+    "project_id": "maino2-40e50",
+    "storage_bucket": "maino2-40e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94987968791:android:7dfacbdc9508a08e4a9752",
+        "android_client_info": {
+          "package_name": "com.example.maino2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-FNwGYxuxQYocYdnR38peA9hsui8XXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

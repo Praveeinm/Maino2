@@ -1,0 +1,6150 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 63.4193,
+        "median": 0.333333,
+        "standardDeviation": 9548.49,
+        "kurtosis": 3.86768,
+        "skewness": 1.72984,
+        "entropy": 0.630918
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 63.2817,
+        "median": 0,
+        "standardDeviation": 9789.82,
+        "kurtosis": 4.45725,
+        "skewness": 1.92801,
+        "entropy": 0.623072
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 68.2773,
+        "median": 0,
+        "standardDeviation": 9197.38,
+        "kurtosis": 2.23498,
+        "skewness": 1.17766,
+        "entropy": 0.636001
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 58.699,
+        "median": 1,
+        "standardDeviation": 9658.28,
+        "kurtosis": 5.35178,
+        "skewness": 2.11485,
+        "entropy": 0.633682
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 0,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "32e2daa73d0f420291685d756c413885aa045c6025c41385e685b007bb14dda0"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "640051B",
+    "userTime": "0.140u",
+    "elapsedTime": "0:01.144",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 78.2163,
+        "median": 0,
+        "standardDeviation": 12236,
+        "kurtosis": 1.97575,
+        "skewness": 1.43138,
+        "entropy": 0.670327
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 79.7908,
+        "median": 0,
+        "standardDeviation": 13325.5,
+        "kurtosis": 2.18243,
+        "skewness": 1.5776,
+        "entropy": 0.666107
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 82.8331,
+        "median": 0,
+        "standardDeviation": 10969,
+        "kurtosis": 1.01821,
+        "skewness": 0.933022,
+        "entropy": 0.675232
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 72.0251,
+        "median": 0,
+        "standardDeviation": 12413.4,
+        "kurtosis": 2.40049,
+        "skewness": 1.66195,
+        "entropy": 0.669642
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 1,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "452113b391355a5f5250fcbe87a0e912eec781cd1e964da99cbb381ec4d39891"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "515903B",
+    "userTime": "0.180u",
+    "elapsedTime": "0:01.179",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.4491,
+        "median": 0,
+        "standardDeviation": 15848.7,
+        "kurtosis": 0.814023,
+        "skewness": 1.32279,
+        "entropy": 0.688258
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.0387,
+        "median": 0,
+        "standardDeviation": 16536.7,
+        "kurtosis": 0.667501,
+        "skewness": 1.31488,
+        "entropy": 0.679191
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 95.3123,
+        "median": 0,
+        "standardDeviation": 15544.9,
+        "kurtosis": 0.371319,
+        "skewness": 1.09698,
+        "entropy": 0.698346
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 79.9963,
+        "median": 0,
+        "standardDeviation": 15464.5,
+        "kurtosis": 1.7021,
+        "skewness": 1.61017,
+        "entropy": 0.687239
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 2,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "b103541993257f2460505c99cb46be5848dce918d935ceb05eb491245b10ee28"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "416350B",
+    "userTime": "0.220u",
+    "elapsedTime": "0:01.222",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 94.9329,
+        "median": 0,
+        "standardDeviation": 17609.6,
+        "kurtosis": 0.119154,
+        "skewness": 1.15133,
+        "entropy": 0.692841
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 96.3713,
+        "median": 0,
+        "standardDeviation": 18143.5,
+        "kurtosis": 0.0272968,
+        "skewness": 1.14097,
+        "entropy": 0.682016
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 102.521,
+        "median": 0,
+        "standardDeviation": 17658.4,
+        "kurtosis": -0.204008,
+        "skewness": 0.983961,
+        "entropy": 0.698483
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 85.906,
+        "median": 0,
+        "standardDeviation": 17026.8,
+        "kurtosis": 0.722689,
+        "skewness": 1.37047,
+        "entropy": 0.698023
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 3,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "5e02de57f17e3b9f85170b215bfe48be56ce22111ec2bfad036e04cb9d0a5715"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "365897B",
+    "userTime": "0.270u",
+    "elapsedTime": "0:01.253",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 97.4379,
+        "median": 0,
+        "standardDeviation": 17973.5,
+        "kurtosis": -0.100246,
+        "skewness": 1.07065,
+        "entropy": 0.710205
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 98.7333,
+        "median": 0,
+        "standardDeviation": 18468,
+        "kurtosis": -0.168298,
+        "skewness": 1.06431,
+        "entropy": 0.698563
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 104.858,
+        "median": 0,
+        "standardDeviation": 17989.5,
+        "kurtosis": -0.373368,
+        "skewness": 0.914027,
+        "entropy": 0.718632
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.7218,
+        "median": 0,
+        "standardDeviation": 17462.8,
+        "kurtosis": 0.390149,
+        "skewness": 1.2682,
+        "entropy": 0.713419
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 4,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "eec267f41f843eddabc98c9ce7abdb923aa9129b58ec196d2b42b8af4bdfeeb9"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "308401B",
+    "userTime": "0.320u",
+    "elapsedTime": "0:01.300",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 98.7022,
+        "median": 0.666667,
+        "standardDeviation": 18005.3,
+        "kurtosis": -0.194061,
+        "skewness": 1.03986,
+        "entropy": 0.818391
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 102.069,
+        "median": 1,
+        "standardDeviation": 18462.1,
+        "kurtosis": -0.310578,
+        "skewness": 1.01571,
+        "entropy": 0.803231
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.446,
+        "median": 0,
+        "standardDeviation": 17982.8,
+        "kurtosis": -0.367684,
+        "skewness": 0.922601,
+        "entropy": 0.837255
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 92.5915,
+        "median": 1,
+        "standardDeviation": 17571.1,
+        "kurtosis": 0.15456,
+        "skewness": 1.19017,
+        "entropy": 0.814686
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 5,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "386d3b7513ebed1c02e39961770b365cfc74d41ad2cca61db99c116e4a6111cc"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "282129B",
+    "userTime": "0.350u",
+    "elapsedTime": "0:01.328",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 93.7523,
+        "median": 0.666667,
+        "standardDeviation": 17170.2,
+        "kurtosis": 0.100452,
+        "skewness": 1.11965,
+        "entropy": 0.846566
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 98.1132,
+        "median": 1,
+        "standardDeviation": 17645.3,
+        "kurtosis": -0.0654195,
+        "skewness": 1.08704,
+        "entropy": 0.840151
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 94.1695,
+        "median": 0,
+        "standardDeviation": 17110,
+        "kurtosis": -0.0531038,
+        "skewness": 1.00708,
+        "entropy": 0.860682
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.9742,
+        "median": 1,
+        "standardDeviation": 16755.3,
+        "kurtosis": 0.459806,
+        "skewness": 1.26953,
+        "entropy": 0.838865
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 6,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "608ceaaadb3a390db9f5a44fcda048eeb90795e89b1afe6b6996039abf399666"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "258944B",
+    "userTime": "0.380u",
+    "elapsedTime": "0:01.358",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.1658,
+        "median": 0.666667,
+        "standardDeviation": 15563.1,
+        "kurtosis": 0.739962,
+        "skewness": 1.26555,
+        "entropy": 0.84972
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 91.7356,
+        "median": 1,
+        "standardDeviation": 16290.5,
+        "kurtosis": 0.568636,
+        "skewness": 1.26184,
+        "entropy": 0.84355
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 83.3714,
+        "median": 0,
+        "standardDeviation": 15283.7,
+        "kurtosis": 0.521321,
+        "skewness": 1.13058,
+        "entropy": 0.864685
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 83.3903,
+        "median": 1,
+        "standardDeviation": 15115,
+        "kurtosis": 1.0447,
+        "skewness": 1.38566,
+        "entropy": 0.840924
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 7,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "cf9cb82b2a277623264017c4dc5e68cd2e6a72063a16a95a6e261064a70985fe"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "230735B",
+    "userTime": "0.420u",
+    "elapsedTime": "0:01.402",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.0918,
+        "median": 2.33333,
+        "standardDeviation": 13217.2,
+        "kurtosis": 2.00471,
+        "skewness": 1.4829,
+        "entropy": 0.842172
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 82.8386,
+        "median": 5,
+        "standardDeviation": 14097.1,
+        "kurtosis": 1.71614,
+        "skewness": 1.49368,
+        "entropy": 0.843384
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 69.0725,
+        "median": 0,
+        "standardDeviation": 12224.3,
+        "kurtosis": 1.53691,
+        "skewness": 1.24714,
+        "entropy": 0.848674
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.3644,
+        "median": 2,
+        "standardDeviation": 13330.1,
+        "kurtosis": 2.21371,
+        "skewness": 1.59776,
+        "entropy": 0.834457
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 8,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "3cdd39d77aaf7633f9af81bd2a9fab8655d1771277658d1cb0612eebf0325f08"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "214393B",
+    "userTime": "0.460u",
+    "elapsedTime": "0:01.432",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 70.8526,
+        "median": 169.333,
+        "standardDeviation": 12918.8,
+        "kurtosis": 3.29331,
+        "skewness": 1.79858,
+        "entropy": 0.8487
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 6,
+        "max": 255,
+        "mean": 79.2447,
+        "median": 253,
+        "standardDeviation": 14200.3,
+        "kurtosis": 2.7003,
+        "skewness": 1.79207,
+        "entropy": 0.855433
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 56.528,
+        "median": 0,
+        "standardDeviation": 10327.4,
+        "kurtosis": 2.9021,
+        "skewness": 1.44644,
+        "entropy": 0.837804
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.7852,
+        "median": 255,
+        "standardDeviation": 14228.7,
+        "kurtosis": 2.4824,
+        "skewness": 1.72704,
+        "entropy": 0.852864
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 9,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "aa21e1c8e476108cd47e92fb58c412c752ece9e7a59a3e5451d10411568208c5"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "199778B",
+    "userTime": "0.500u",
+    "elapsedTime": "0:01.464",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 65.8021,
+        "median": 169.333,
+        "standardDeviation": 12325.6,
+        "kurtosis": 3.81262,
+        "skewness": 1.83412,
+        "entropy": 0.864544
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.1249,
+        "median": 253,
+        "standardDeviation": 13564.2,
+        "kurtosis": 3.44596,
+        "skewness": 1.86926,
+        "entropy": 0.876608
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 49.8284,
+        "median": 0,
+        "standardDeviation": 9458.14,
+        "kurtosis": 2.9128,
+        "skewness": 1.38582,
+        "entropy": 0.837461
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.4532,
+        "median": 255,
+        "standardDeviation": 13954.3,
+        "kurtosis": 2.58352,
+        "skewness": 1.69081,
+        "entropy": 0.879562
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 10,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "8ed7199bedffb44f2259e88311ab9347692231fdb6bb3694164c94b7856023e8"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "180597B",
+    "userTime": "0.550u",
+    "elapsedTime": "0:01.513",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 65.2638,
+        "median": 169.667,
+        "standardDeviation": 12234.2,
+        "kurtosis": 3.7272,
+        "skewness": 1.81058,
+        "entropy": 0.870238
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.1803,
+        "median": 254,
+        "standardDeviation": 13572.9,
+        "kurtosis": 3.44712,
+        "skewness": 1.85556,
+        "entropy": 0.882877
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 45.9563,
+        "median": 0,
+        "standardDeviation": 8875.55,
+        "kurtosis": 3.19274,
+        "skewness": 1.39482,
+        "entropy": 0.83217
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.6548,
+        "median": 255,
+        "standardDeviation": 14254.2,
+        "kurtosis": 2.13265,
+        "skewness": 1.57226,
+        "entropy": 0.895667
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 11,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "03ec92b1ededa46aa682d059051b24491c539cf6e249cea2342cbf7ed3f03eae"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "170593B",
+    "userTime": "0.580u",
+    "elapsedTime": "0:01.543",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 64.8195,
+        "median": 169.667,
+        "standardDeviation": 12054.8,
+        "kurtosis": 3.70474,
+        "skewness": 1.78804,
+        "entropy": 0.869194
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.2061,
+        "median": 255,
+        "standardDeviation": 13256.3,
+        "kurtosis": 3.83245,
+        "skewness": 1.91355,
+        "entropy": 0.880775
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 42.9228,
+        "median": 0,
+        "standardDeviation": 8568,
+        "kurtosis": 2.80761,
+        "skewness": 1.30694,
+        "entropy": 0.830351
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 77.3297,
+        "median": 254,
+        "standardDeviation": 14340.2,
+        "kurtosis": 1.87907,
+        "skewness": 1.51491,
+        "entropy": 0.896457
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 12,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "f50f0a7d008367e5a43af3e7a789c6b0c4f91157b779d45a213b794fbfa3fb9f"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "161714B",
+    "userTime": "0.620u",
+    "elapsedTime": "0:01.573",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 64.668,
+        "median": 170,
+        "standardDeviation": 12045,
+        "kurtosis": 3.39749,
+        "skewness": 1.71739,
+        "entropy": 0.870649
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.2604,
+        "median": 255,
+        "standardDeviation": 13046.5,
+        "kurtosis": 4.06347,
+        "skewness": 1.92939,
+        "entropy": 0.878502
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 41.5662,
+        "median": 0,
+        "standardDeviation": 8401.26,
+        "kurtosis": 2.47761,
+        "skewness": 1.21432,
+        "entropy": 0.832271
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 79.1776,
+        "median": 255,
+        "standardDeviation": 14687.2,
+        "kurtosis": 1.29171,
+        "skewness": 1.3561,
+        "entropy": 0.901172
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 13,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "683ac1ec89dfd47d80b1452312ed0b0ab40e9028d2b0b9093e57ac3fe68b10ed"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "154212B",
+    "userTime": "0.660u",
+    "elapsedTime": "0:01.601",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 65.7378,
+        "median": 170,
+        "standardDeviation": 12175.6,
+        "kurtosis": 2.95935,
+        "skewness": 1.61986,
+        "entropy": 0.872277
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.1466,
+        "median": 255,
+        "standardDeviation": 12953,
+        "kurtosis": 4.09424,
+        "skewness": 1.90076,
+        "entropy": 0.87776
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 40.5307,
+        "median": 0,
+        "standardDeviation": 8506.09,
+        "kurtosis": 1.9892,
+        "skewness": 1.15189,
+        "entropy": 0.832791
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 82.5361,
+        "median": 255,
+        "standardDeviation": 15067.7,
+        "kurtosis": 0.819015,
+        "skewness": 1.23056,
+        "entropy": 0.906279
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 14,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "95418d31a422aa03085f92a8772cc12d5a90fdbf53b55b4a406d81cbb2d602ae"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "147010B",
+    "userTime": "0.700u",
+    "elapsedTime": "0:01.631",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 66.6576,
+        "median": 170,
+        "standardDeviation": 12363.4,
+        "kurtosis": 2.56447,
+        "skewness": 1.54408,
+        "entropy": 0.875467
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.7478,
+        "median": 255,
+        "standardDeviation": 12923.2,
+        "kurtosis": 3.96147,
+        "skewness": 1.84982,
+        "entropy": 0.881524
+      },
+      "green": {
+        "min": 0,
+        "max": 253,
+        "mean": 40.2491,
+        "median": 0,
+        "standardDeviation": 8696.3,
+        "kurtosis": 1.59566,
+        "skewness": 1.11933,
+        "entropy": 0.836786
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 84.976,
+        "median": 255,
+        "standardDeviation": 15470.7,
+        "kurtosis": 0.444909,
+        "skewness": 1.14224,
+        "entropy": 0.908092
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 15,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "e01cf13c70f439b16a0e7aa7a5541d16e8b7c45c6d1199363b385ad8c05aa2bf"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "140623B",
+    "userTime": "0.740u",
+    "elapsedTime": "0:01.659",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 67.5776,
+        "median": 169.667,
+        "standardDeviation": 12644,
+        "kurtosis": 2.24736,
+        "skewness": 1.48003,
+        "entropy": 0.879981
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.8232,
+        "median": 255,
+        "standardDeviation": 13100.2,
+        "kurtosis": 3.63454,
+        "skewness": 1.78075,
+        "entropy": 0.887766
+      },
+      "green": {
+        "min": 0,
+        "max": 253,
+        "mean": 39.9281,
+        "median": 0,
+        "standardDeviation": 9025.91,
+        "kurtosis": 1.15275,
+        "skewness": 1.08092,
+        "entropy": 0.835729
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.9815,
+        "median": 254,
+        "standardDeviation": 15806,
+        "kurtosis": 0.253244,
+        "skewness": 1.10319,
+        "entropy": 0.916448
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 16,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "36e23444df7e6e11e02c452e138a09c80d87bc6c1cd4023efa7a8ea244a7c8de"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "134394B",
+    "userTime": "0.770u",
+    "elapsedTime": "0:01.690",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 67.1687,
+        "median": 169.333,
+        "standardDeviation": 12860.9,
+        "kurtosis": 2.08562,
+        "skewness": 1.44628,
+        "entropy": 0.878419
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.8983,
+        "median": 255,
+        "standardDeviation": 13220.5,
+        "kurtosis": 3.43891,
+        "skewness": 1.73583,
+        "entropy": 0.890953
+      },
+      "green": {
+        "min": 0,
+        "max": 253,
+        "mean": 37.9695,
+        "median": 0,
+        "standardDeviation": 9499.14,
+        "kurtosis": 1.1952,
+        "skewness": 1.22036,
+        "entropy": 0.825107
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 87.6382,
+        "median": 253,
+        "standardDeviation": 15863,
+        "kurtosis": 0.306746,
+        "skewness": 1.13707,
+        "entropy": 0.919196
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 17,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "ba7f9f51d0c6384ac448692be205c18e730d49ce743711f0cb2aea8d5c28cd87"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "128935B",
+    "userTime": "0.810u",
+    "elapsedTime": "0:01.719",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 67.047,
+        "median": 169.667,
+        "standardDeviation": 13095.7,
+        "kurtosis": 2.01896,
+        "skewness": 1.45103,
+        "entropy": 0.875208
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.1186,
+        "median": 255,
+        "standardDeviation": 13384.5,
+        "kurtosis": 3.25315,
+        "skewness": 1.7255,
+        "entropy": 0.891812
+      },
+      "green": {
+        "min": 0,
+        "max": 252,
+        "mean": 37.04,
+        "median": 0,
+        "standardDeviation": 9892.53,
+        "kurtosis": 1.39844,
+        "skewness": 1.34182,
+        "entropy": 0.816441
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 87.9825,
+        "median": 254,
+        "standardDeviation": 16010,
+        "kurtosis": 0.377714,
+        "skewness": 1.19066,
+        "entropy": 0.917372
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 18,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "a29592dd4c31713fb7f482738f664d010b6195b782a18800a6b29b9d6b7f1b7c"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "122501B",
+    "userTime": "0.860u",
+    "elapsedTime": "0:01.757",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 66.836,
+        "median": 169,
+        "standardDeviation": 13433.3,
+        "kurtosis": 1.97756,
+        "skewness": 1.46221,
+        "entropy": 0.867385
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.3467,
+        "median": 254,
+        "standardDeviation": 13758.8,
+        "kurtosis": 3.01692,
+        "skewness": 1.7176,
+        "entropy": 0.891921
+      },
+      "green": {
+        "min": 0,
+        "max": 251,
+        "mean": 35.8061,
+        "median": 0,
+        "standardDeviation": 10338,
+        "kurtosis": 1.88059,
+        "skewness": 1.49446,
+        "entropy": 0.794182
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.3551,
+        "median": 253,
+        "standardDeviation": 16203.1,
+        "kurtosis": 0.483006,
+        "skewness": 1.24328,
+        "entropy": 0.916051
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 19,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "081cb9e9462589c2e781963ed0eeb48116ac9387ffbbf82a78d7012118a81f4d"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "116869B",
+    "userTime": "0.910u",
+    "elapsedTime": "0:01.794",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 66.8369,
+        "median": 169,
+        "standardDeviation": 13629.1,
+        "kurtosis": 2.00629,
+        "skewness": 1.47907,
+        "entropy": 0.863431
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.4812,
+        "median": 254,
+        "standardDeviation": 13983.7,
+        "kurtosis": 2.92152,
+        "skewness": 1.71937,
+        "entropy": 0.892075
+      },
+      "green": {
+        "min": 0,
+        "max": 251,
+        "mean": 35.2637,
+        "median": 0,
+        "standardDeviation": 10640.8,
+        "kurtosis": 2.41324,
+        "skewness": 1.63031,
+        "entropy": 0.782547
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.7659,
+        "median": 253,
+        "standardDeviation": 16262.8,
+        "kurtosis": 0.622361,
+        "skewness": 1.28964,
+        "entropy": 0.91567
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 20,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "70d7ef5e6cccd5cc7baea45fe2523e1efc334c7bf63f4cf0fc439c9fc4ac1439"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "110818B",
+    "userTime": "0.950u",
+    "elapsedTime": "0:01.837",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 66.7111,
+        "median": 169,
+        "standardDeviation": 13786.2,
+        "kurtosis": 2.00805,
+        "skewness": 1.48612,
+        "entropy": 0.860405
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.2726,
+        "median": 254,
+        "standardDeviation": 14139.3,
+        "kurtosis": 2.78979,
+        "skewness": 1.69985,
+        "entropy": 0.891553
+      },
+      "green": {
+        "min": 0,
+        "max": 250,
+        "mean": 35.0757,
+        "median": 0,
+        "standardDeviation": 10933.3,
+        "kurtosis": 2.92065,
+        "skewness": 1.74638,
+        "entropy": 0.775042
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.7851,
+        "median": 253,
+        "standardDeviation": 16286.1,
+        "kurtosis": 0.736717,
+        "skewness": 1.31916,
+        "entropy": 0.914618
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 21,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "f7555dae08d1d7138b5e82eaa779e23d1c49ae428a8cd2fa9c0399beb1d0caa6"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "106125B",
+    "userTime": "1.000u",
+    "elapsedTime": "0:01.874",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 68.7039,
+        "median": 168.333,
+        "standardDeviation": 14196.7,
+        "kurtosis": 1.28877,
+        "skewness": 1.30055,
+        "entropy": 0.866551
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 83.6197,
+        "median": 254,
+        "standardDeviation": 14757.2,
+        "kurtosis": 1.44886,
+        "skewness": 1.27,
+        "entropy": 0.918283
+      },
+      "green": {
+        "min": 0,
+        "max": 250,
+        "mean": 32.4479,
+        "median": 0,
+        "standardDeviation": 11237.5,
+        "kurtosis": 4.01333,
+        "skewness": 2.05146,
+        "entropy": 0.752826
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.0442,
+        "median": 251,
+        "standardDeviation": 16595.3,
+        "kurtosis": 0.487459,
+        "skewness": 1.2131,
+        "entropy": 0.928543
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 22,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "c2ad7652e067201f27e8ef4ffc3f44ff2ef9ba747f2581c5d1377eecf2e5b1e2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "102891B",
+    "userTime": "1.040u",
+    "elapsedTime": "0:01.901",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.0232,
+        "median": 169,
+        "standardDeviation": 15114.8,
+        "kurtosis": 0.300754,
+        "skewness": 1.01841,
+        "entropy": 0.865913
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 87.9028,
+        "median": 255,
+        "standardDeviation": 16088.1,
+        "kurtosis": 0.356778,
+        "skewness": 0.969106,
+        "entropy": 0.934268
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 29.6929,
+        "median": 0,
+        "standardDeviation": 11999.8,
+        "kurtosis": 4.51286,
+        "skewness": 2.19793,
+        "entropy": 0.705668
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.474,
+        "median": 252,
+        "standardDeviation": 17256.3,
+        "kurtosis": -0.292738,
+        "skewness": 0.796474,
+        "entropy": 0.957804
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 23,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "8a026114c5c8ef0dfc0d2b8b7203320a2e699a9ac0c59d92389f691b4c98081f"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "99673B",
+    "userTime": "1.070u",
+    "elapsedTime": "0:01.931",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.3923,
+        "median": 169.333,
+        "standardDeviation": 15413.9,
+        "kurtosis": 0.181551,
+        "skewness": 0.987446,
+        "entropy": 0.867564
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 89.6145,
+        "median": 255,
+        "standardDeviation": 16357.2,
+        "kurtosis": 0.187211,
+        "skewness": 0.915715,
+        "entropy": 0.936238
+      },
+      "green": {
+        "min": 0,
+        "max": 252,
+        "mean": 30.2563,
+        "median": 0,
+        "standardDeviation": 12436.8,
+        "kurtosis": 4.86708,
+        "skewness": 2.27107,
+        "entropy": 0.709283
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 103.306,
+        "median": 253,
+        "standardDeviation": 17447.6,
+        "kurtosis": -0.363694,
+        "skewness": 0.754994,
+        "entropy": 0.95717
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 24,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "041b07d583a497c8d09e7c3127392605ead0e8a2c794d080c901a5edb75b4452"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "96709B",
+    "userTime": "1.110u",
+    "elapsedTime": "0:01.959",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.1028,
+        "median": 169.333,
+        "standardDeviation": 15647.5,
+        "kurtosis": 0.130846,
+        "skewness": 0.976672,
+        "entropy": 0.866412
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.4318,
+        "median": 255,
+        "standardDeviation": 16528.1,
+        "kurtosis": 0.103147,
+        "skewness": 0.892609,
+        "entropy": 0.937805
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 30.738,
+        "median": 0,
+        "standardDeviation": 12873.1,
+        "kurtosis": 5.25077,
+        "skewness": 2.34455,
+        "entropy": 0.705876
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 104.139,
+        "median": 253,
+        "standardDeviation": 17541.3,
+        "kurtosis": -0.386615,
+        "skewness": 0.737152,
+        "entropy": 0.955556
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 25,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "0ea1fb8f8cd5b67eda6d7fb97d86a34bdb4b100f31be460f02c6ab8a5e45103b"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "93646B",
+    "userTime": "1.160u",
+    "elapsedTime": "0:01.990",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.6971,
+        "median": 169.333,
+        "standardDeviation": 15763.6,
+        "kurtosis": 0.104825,
+        "skewness": 0.9686,
+        "entropy": 0.866631
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 91.0251,
+        "median": 255,
+        "standardDeviation": 16580.8,
+        "kurtosis": 0.0800245,
+        "skewness": 0.886233,
+        "entropy": 0.938872
+      },
+      "green": {
+        "min": 0,
+        "max": 254,
+        "mean": 31.0171,
+        "median": 0,
+        "standardDeviation": 13133.9,
+        "kurtosis": 5.40201,
+        "skewness": 2.37773,
+        "entropy": 0.706741
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.049,
+        "median": 253,
+        "standardDeviation": 17576,
+        "kurtosis": -0.39674,
+        "skewness": 0.727316,
+        "entropy": 0.954281
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 26,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "9c6aff40679012baa4e21a89fcc86ad7aa06b5e6ed99ebdc01e2835b1d78a5f4"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "90367B",
+    "userTime": "1.200u",
+    "elapsedTime": "0:02.026",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.8397,
+        "median": 169.333,
+        "standardDeviation": 15838.4,
+        "kurtosis": 0.102957,
+        "skewness": 0.968267,
+        "entropy": 0.866101
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.8311,
+        "median": 255,
+        "standardDeviation": 16570,
+        "kurtosis": 0.100628,
+        "skewness": 0.897923,
+        "entropy": 0.93797
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.2111,
+        "median": 0,
+        "standardDeviation": 13380.2,
+        "kurtosis": 5.58331,
+        "skewness": 2.41173,
+        "entropy": 0.705397
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.477,
+        "median": 253,
+        "standardDeviation": 17564.9,
+        "kurtosis": -0.40361,
+        "skewness": 0.716356,
+        "entropy": 0.954937
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 27,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "e1c1c7c0a427f9443040204dd7fa5ba3dfec48af8b355f48c3cbadb084aaa524"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "87744B",
+    "userTime": "1.240u",
+    "elapsedTime": "0:02.057",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.9627,
+        "median": 169.333,
+        "standardDeviation": 15849.3,
+        "kurtosis": 0.0963994,
+        "skewness": 0.964737,
+        "entropy": 0.865758
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.6592,
+        "median": 255,
+        "standardDeviation": 16547.4,
+        "kurtosis": 0.122885,
+        "skewness": 0.907603,
+        "entropy": 0.937599
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.2507,
+        "median": 0,
+        "standardDeviation": 13441.3,
+        "kurtosis": 5.58321,
+        "skewness": 2.41431,
+        "entropy": 0.704553
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.978,
+        "median": 253,
+        "standardDeviation": 17559.2,
+        "kurtosis": -0.412144,
+        "skewness": 0.703828,
+        "entropy": 0.955121
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 28,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "9d06381fcc226bef06a3b88637182629c9b64cadf3b291a2c057c4cf58dfaf04"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "85531B",
+    "userTime": "1.270u",
+    "elapsedTime": "0:02.084",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.769,
+        "median": 169.333,
+        "standardDeviation": 15830.1,
+        "kurtosis": 0.113128,
+        "skewness": 0.96917,
+        "entropy": 0.865605
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.2264,
+        "median": 255,
+        "standardDeviation": 16502.5,
+        "kurtosis": 0.153642,
+        "skewness": 0.918895,
+        "entropy": 0.937307
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.2961,
+        "median": 0,
+        "standardDeviation": 13468.9,
+        "kurtosis": 5.60769,
+        "skewness": 2.4178,
+        "entropy": 0.704124
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.785,
+        "median": 253,
+        "standardDeviation": 17519,
+        "kurtosis": -0.399194,
+        "skewness": 0.705043,
+        "entropy": 0.955384
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 29,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "9eb5caa108d15266e853668590eccdc7eedc32ba8a460b2df601c0575bb549e3"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "83343B",
+    "userTime": "1.310u",
+    "elapsedTime": "0:02.113",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.4845,
+        "median": 169.333,
+        "standardDeviation": 15789.2,
+        "kurtosis": 0.151778,
+        "skewness": 0.979881,
+        "entropy": 0.863959
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 89.8883,
+        "median": 255,
+        "standardDeviation": 16435.6,
+        "kurtosis": 0.197602,
+        "skewness": 0.935806,
+        "entropy": 0.936119
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.2032,
+        "median": 0,
+        "standardDeviation": 13474.5,
+        "kurtosis": 5.58011,
+        "skewness": 2.41485,
+        "entropy": 0.702255
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.362,
+        "median": 253,
+        "standardDeviation": 17457.5,
+        "kurtosis": -0.350864,
+        "skewness": 0.728828,
+        "entropy": 0.953504
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 30,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "74e9fb09f41922978551971847bf47d9cf3c3aa463c6bdd8d65b591a637accf4"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "81030B",
+    "userTime": "1.360u",
+    "elapsedTime": "0:02.145",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.9335,
+        "median": 169.333,
+        "standardDeviation": 15733,
+        "kurtosis": 0.212272,
+        "skewness": 0.998069,
+        "entropy": 0.861506
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 89.2352,
+        "median": 255,
+        "standardDeviation": 16357.1,
+        "kurtosis": 0.255798,
+        "skewness": 0.959465,
+        "entropy": 0.935422
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0873,
+        "median": 0,
+        "standardDeviation": 13472.2,
+        "kurtosis": 5.56196,
+        "skewness": 2.41178,
+        "entropy": 0.69763
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 104.478,
+        "median": 253,
+        "standardDeviation": 17369.7,
+        "kurtosis": -0.280738,
+        "skewness": 0.763937,
+        "entropy": 0.951465
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 31,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "21c9a0b7a06b8712d61d68d7472713faf8d098ec1342c26413d1e695312d76a5"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "79096B",
+    "userTime": "1.400u",
+    "elapsedTime": "0:02.173",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.7572,
+        "median": 169.333,
+        "standardDeviation": 15633.9,
+        "kurtosis": 0.334377,
+        "skewness": 1.04188,
+        "entropy": 0.860133
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 87.6143,
+        "median": 255,
+        "standardDeviation": 16229.5,
+        "kurtosis": 0.374116,
+        "skewness": 1.01503,
+        "entropy": 0.934738
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0089,
+        "median": 0,
+        "standardDeviation": 13421.1,
+        "kurtosis": 5.51535,
+        "skewness": 2.4032,
+        "entropy": 0.696163
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 102.648,
+        "median": 253,
+        "standardDeviation": 17251.1,
+        "kurtosis": -0.174361,
+        "skewness": 0.831007,
+        "entropy": 0.949499
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 32,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "6c540b17c32d651b351283b9821a760d5d24933b5643036d6be5d7e7f5580a9a"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "77261B",
+    "userTime": "1.440u",
+    "elapsedTime": "0:02.201",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.0294,
+        "median": 169.333,
+        "standardDeviation": 15590.8,
+        "kurtosis": 0.403231,
+        "skewness": 1.0679,
+        "entropy": 0.8593
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.6826,
+        "median": 255,
+        "standardDeviation": 16174.3,
+        "kurtosis": 0.42096,
+        "skewness": 1.03547,
+        "entropy": 0.934426
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0741,
+        "median": 0,
+        "standardDeviation": 13367.6,
+        "kurtosis": 5.49783,
+        "skewness": 2.39731,
+        "entropy": 0.696163
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.332,
+        "median": 253,
+        "standardDeviation": 17230.4,
+        "kurtosis": -0.121396,
+        "skewness": 0.866635,
+        "entropy": 0.947311
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 33,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "0addcb68f022047d6565813dc4900e076d934215bdc276f2b6955ab84d6ffe66"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "75304B",
+    "userTime": "1.470u",
+    "elapsedTime": "0:02.232",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.0341,
+        "median": 169.333,
+        "standardDeviation": 15579.3,
+        "kurtosis": 0.402929,
+        "skewness": 1.06701,
+        "entropy": 0.859215
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.6822,
+        "median": 255,
+        "standardDeviation": 16158,
+        "kurtosis": 0.425363,
+        "skewness": 1.0361,
+        "entropy": 0.934108
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0631,
+        "median": 0,
+        "standardDeviation": 13366.3,
+        "kurtosis": 5.51219,
+        "skewness": 2.39917,
+        "entropy": 0.696133
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.357,
+        "median": 253,
+        "standardDeviation": 17213.8,
+        "kurtosis": -0.121954,
+        "skewness": 0.865641,
+        "entropy": 0.947406
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 34,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "830ba97916c54087ebe31709d4a0ec82ba338a348589c87cc6ba266a6fbe1abf"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "74313B",
+    "userTime": "1.500u",
+    "elapsedTime": "0:02.248",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.0063,
+        "median": 169.333,
+        "standardDeviation": 15578.5,
+        "kurtosis": 0.404965,
+        "skewness": 1.06795,
+        "entropy": 0.859514
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.6172,
+        "median": 255,
+        "standardDeviation": 16160,
+        "kurtosis": 0.426502,
+        "skewness": 1.03681,
+        "entropy": 0.934229
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0717,
+        "median": 0,
+        "standardDeviation": 13362.6,
+        "kurtosis": 5.51674,
+        "skewness": 2.39969,
+        "entropy": 0.696882
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.33,
+        "median": 253,
+        "standardDeviation": 17212.8,
+        "kurtosis": -0.121455,
+        "skewness": 0.86596,
+        "entropy": 0.947429
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 35,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "81a42f6a463382fbc4256825201451518fb189167e457a11ece9134ec238507a"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "72724B",
+    "userTime": "1.540u",
+    "elapsedTime": "0:02.276",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.0151,
+        "median": 169.333,
+        "standardDeviation": 15577.9,
+        "kurtosis": 0.405265,
+        "skewness": 1.06798,
+        "entropy": 0.859417
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.6382,
+        "median": 255,
+        "standardDeviation": 16160.8,
+        "kurtosis": 0.427134,
+        "skewness": 1.03708,
+        "entropy": 0.934192
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0712,
+        "median": 0,
+        "standardDeviation": 13360.7,
+        "kurtosis": 5.51671,
+        "skewness": 2.39958,
+        "entropy": 0.696675
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.336,
+        "median": 253,
+        "standardDeviation": 17212.2,
+        "kurtosis": -0.121073,
+        "skewness": 0.866153,
+        "entropy": 0.947383
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 36,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "f807185db6cced18beac0153d2d710fae97e66a08dfffc5602ba6fc1333fe06a"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "71174B",
+    "userTime": "1.580u",
+    "elapsedTime": "0:02.303",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.0621,
+        "median": 169.333,
+        "standardDeviation": 15585,
+        "kurtosis": 0.390842,
+        "skewness": 1.06207,
+        "entropy": 0.858712
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.6467,
+        "median": 255,
+        "standardDeviation": 16167.3,
+        "kurtosis": 0.430282,
+        "skewness": 1.03769,
+        "entropy": 0.934348
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 30.9478,
+        "median": 0,
+        "standardDeviation": 13366.3,
+        "kurtosis": 5.49201,
+        "skewness": 2.39547,
+        "entropy": 0.693206
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.592,
+        "median": 253,
+        "standardDeviation": 17221.3,
+        "kurtosis": -0.136853,
+        "skewness": 0.85528,
+        "entropy": 0.948582
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 37,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "6a108035ef9216d25103ef139fd4777eee151e885249e26c14b0ed548b9c4474"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "69308B",
+    "userTime": "1.640u",
+    "elapsedTime": "0:02.338",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.5244,
+        "median": 169.333,
+        "standardDeviation": 15699.9,
+        "kurtosis": 0.230588,
+        "skewness": 1.01057,
+        "entropy": 0.86414
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 88.3461,
+        "median": 255,
+        "standardDeviation": 16332.1,
+        "kurtosis": 0.29126,
+        "skewness": 0.982581,
+        "entropy": 0.935727
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.1271,
+        "median": 0,
+        "standardDeviation": 13369.2,
+        "kurtosis": 5.53229,
+        "skewness": 2.40272,
+        "entropy": 0.704044
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 104.1,
+        "median": 253,
+        "standardDeviation": 17398.3,
+        "kurtosis": -0.308411,
+        "skewness": 0.761676,
+        "entropy": 0.952647
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 38,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "45c14d0058ca6414a4f15b6fa4a5194a423d1ec4b392fdc3aa1a12b169708fb2"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "67100B",
+    "userTime": "1.680u",
+    "elapsedTime": "0:02.383",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.9833,
+        "median": 169.333,
+        "standardDeviation": 15839.4,
+        "kurtosis": 0.0859401,
+        "skewness": 0.968861,
+        "entropy": 0.86987
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 89.9848,
+        "median": 255,
+        "standardDeviation": 16531.6,
+        "kurtosis": 0.142625,
+        "skewness": 0.923436,
+        "entropy": 0.937859
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.6994,
+        "median": 0,
+        "standardDeviation": 13353.5,
+        "kurtosis": 5.60967,
+        "skewness": 2.41232,
+        "entropy": 0.714851
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 106.266,
+        "median": 253,
+        "standardDeviation": 17633.1,
+        "kurtosis": -0.482871,
+        "skewness": 0.675226,
+        "entropy": 0.9569
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 39,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "bb1f829995117a7e07b68dacf258c9ea668863be8084d489d6641afb435f16b4"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "65636B",
+    "userTime": "1.710u",
+    "elapsedTime": "0:02.413",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.248,
+        "median": 169.333,
+        "standardDeviation": 15865.9,
+        "kurtosis": 0.0668505,
+        "skewness": 0.96211,
+        "entropy": 0.870331
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.3082,
+        "median": 255,
+        "standardDeviation": 16561.9,
+        "kurtosis": 0.123772,
+        "skewness": 0.914405,
+        "entropy": 0.938162
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.7587,
+        "median": 0,
+        "standardDeviation": 13372,
+        "kurtosis": 5.6155,
+        "skewness": 2.41445,
+        "entropy": 0.715846
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 106.677,
+        "median": 253,
+        "standardDeviation": 17663.8,
+        "kurtosis": -0.49764,
+        "skewness": 0.664959,
+        "entropy": 0.956985
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 40,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "56cd9eee7b1d1e3429cc6f6926b1e69c01543d372bb8049ba9e3cce7c905afa8"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "64402B",
+    "userTime": "1.750u",
+    "elapsedTime": "0:02.440",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.058,
+        "median": 169.333,
+        "standardDeviation": 15859.4,
+        "kurtosis": 0.0774875,
+        "skewness": 0.964141,
+        "entropy": 0.869321
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.1807,
+        "median": 255,
+        "standardDeviation": 16550.2,
+        "kurtosis": 0.128939,
+        "skewness": 0.915214,
+        "entropy": 0.93786
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.6047,
+        "median": 0,
+        "standardDeviation": 13388.2,
+        "kurtosis": 5.61483,
+        "skewness": 2.41556,
+        "entropy": 0.71373
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 106.388,
+        "median": 253,
+        "standardDeviation": 17639.8,
+        "kurtosis": -0.47599,
+        "skewness": 0.672793,
+        "entropy": 0.956374
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 41,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "eef7e178813462ec9ba81892d4b8019aa735f09d687383ee54a4539184b5325f"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "63147B",
+    "userTime": "1.790u",
+    "elapsedTime": "0:02.469",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 76.0558,
+        "median": 169.333,
+        "standardDeviation": 15846.5,
+        "kurtosis": 0.0855238,
+        "skewness": 0.963959,
+        "entropy": 0.868306
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.2594,
+        "median": 255,
+        "standardDeviation": 16526.1,
+        "kurtosis": 0.141685,
+        "skewness": 0.918749,
+        "entropy": 0.937748
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.4914,
+        "median": 0,
+        "standardDeviation": 13417.3,
+        "kurtosis": 5.59884,
+        "skewness": 2.41545,
+        "entropy": 0.711351
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 106.417,
+        "median": 253,
+        "standardDeviation": 17596,
+        "kurtosis": -0.452277,
+        "skewness": 0.680853,
+        "entropy": 0.955819
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 42,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "5e77bb5f440fb63f139d1508bc45e827ed51876c640004ef4259c36e55637dd9"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "61876B",
+    "userTime": "1.830u",
+    "elapsedTime": "0:02.499",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.8514,
+        "median": 169.333,
+        "standardDeviation": 15824.2,
+        "kurtosis": 0.10647,
+        "skewness": 0.968398,
+        "entropy": 0.866847
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.1125,
+        "median": 255,
+        "standardDeviation": 16497.6,
+        "kurtosis": 0.160177,
+        "skewness": 0.924505,
+        "entropy": 0.937314
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.3604,
+        "median": 0,
+        "standardDeviation": 13434.8,
+        "kurtosis": 5.59994,
+        "skewness": 2.41582,
+        "entropy": 0.70797
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 106.081,
+        "median": 253,
+        "standardDeviation": 17540.2,
+        "kurtosis": -0.418741,
+        "skewness": 0.6953,
+        "entropy": 0.955257
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 43,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "108fcb39145043c438367c04f17474f2b599675315fd8f2203a41f40847eb1ba"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "60762B",
+    "userTime": "1.870u",
+    "elapsedTime": "0:02.527",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.7168,
+        "median": 169.333,
+        "standardDeviation": 15806.4,
+        "kurtosis": 0.121241,
+        "skewness": 0.971368,
+        "entropy": 0.866247
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 90.0347,
+        "median": 255,
+        "standardDeviation": 16472.9,
+        "kurtosis": 0.170664,
+        "skewness": 0.926542,
+        "entropy": 0.937412
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.3054,
+        "median": 0,
+        "standardDeviation": 13450.1,
+        "kurtosis": 5.59048,
+        "skewness": 2.41533,
+        "entropy": 0.70642
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.81,
+        "median": 253,
+        "standardDeviation": 17496.1,
+        "kurtosis": -0.391473,
+        "skewness": 0.706845,
+        "entropy": 0.954908
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 44,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "80cc136bac8edd01c8c3ec14597acc2f3497d1432978174a6d0609f53ee9fcf0"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "59650B",
+    "userTime": "1.910u",
+    "elapsedTime": "0:02.555",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 75.3431,
+        "median": 169.333,
+        "standardDeviation": 15776.9,
+        "kurtosis": 0.157277,
+        "skewness": 0.982036,
+        "entropy": 0.864297
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 89.6549,
+        "median": 255,
+        "standardDeviation": 16429.8,
+        "kurtosis": 0.20197,
+        "skewness": 0.938964,
+        "entropy": 0.93685
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.194,
+        "median": 0,
+        "standardDeviation": 13461.4,
+        "kurtosis": 5.59254,
+        "skewness": 2.41542,
+        "entropy": 0.702165
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 105.18,
+        "median": 253,
+        "standardDeviation": 17439.6,
+        "kurtosis": -0.348375,
+        "skewness": 0.728716,
+        "entropy": 0.953876
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 45,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "b0075e26d00348ee3679e9dc1999f5c82f15a3e753cace5f4ed5b9dfffbdf83f"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "58566B",
+    "userTime": "1.960u",
+    "elapsedTime": "0:02.584",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 74.9565,
+        "median": 169.333,
+        "standardDeviation": 15731.1,
+        "kurtosis": 0.201585,
+        "skewness": 0.995123,
+        "entropy": 0.862804
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 89.181,
+        "median": 255,
+        "standardDeviation": 16361.1,
+        "kurtosis": 0.244357,
+        "skewness": 0.956127,
+        "entropy": 0.936231
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.1073,
+        "median": 0,
+        "standardDeviation": 13464.8,
+        "kurtosis": 5.55762,
+        "skewness": 2.41103,
+        "entropy": 0.699832
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 104.581,
+        "median": 253,
+        "standardDeviation": 17367.4,
+        "kurtosis": -0.292581,
+        "skewness": 0.757226,
+        "entropy": 0.952348
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 46,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "ae66502042d9ab1151b0678787724ccc66da9a8802e578336b65923c32dc31c7"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "57568B",
+    "userTime": "2.000u",
+    "elapsedTime": "0:02.611",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.7485,
+        "median": 169.333,
+        "standardDeviation": 15631.5,
+        "kurtosis": 0.330071,
+        "skewness": 1.04013,
+        "entropy": 0.860757
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 87.5451,
+        "median": 255,
+        "standardDeviation": 16223.9,
+        "kurtosis": 0.363654,
+        "skewness": 1.0097,
+        "entropy": 0.935535
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0522,
+        "median": 0,
+        "standardDeviation": 13422.7,
+        "kurtosis": 5.51882,
+        "skewness": 2.40303,
+        "entropy": 0.696991
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 102.648,
+        "median": 253,
+        "standardDeviation": 17247.9,
+        "kurtosis": -0.176167,
+        "skewness": 0.828417,
+        "entropy": 0.949746
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 47,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "4d2e3d2d7d9c53c458f96aacfd2b82e1206d41bb83320d3272c85669432d227c"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "56604B",
+    "userTime": "2.030u",
+    "elapsedTime": "0:02.639",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.1606,
+        "median": 169.333,
+        "standardDeviation": 15606.1,
+        "kurtosis": 0.386177,
+        "skewness": 1.06368,
+        "entropy": 0.860177
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.8477,
+        "median": 255,
+        "standardDeviation": 16197.2,
+        "kurtosis": 0.397304,
+        "skewness": 1.0291,
+        "entropy": 0.935499
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0784,
+        "median": 0,
+        "standardDeviation": 13377.3,
+        "kurtosis": 5.50568,
+        "skewness": 2.39929,
+        "entropy": 0.697124
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.556,
+        "median": 253,
+        "standardDeviation": 17243.6,
+        "kurtosis": -0.138269,
+        "skewness": 0.861219,
+        "entropy": 0.947909
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 48,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "92eb13620449258b48016e9cf9d0224ba34c887e925785f08e4ea8f4c15d684c"
+    },
+    "tainted": false,
+    "filesize": "0B",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "55710B",
+    "userTime": "2.050u",
+    "elapsedTime": "0:02.665",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+},
+{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "baseName": "Maino-11-ezgif.com-video-to-gif-converter.gif.mp4",
+    "format": "MP4",
+    "formatDescription": "MP4",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 278400,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 73.1183,
+        "median": 169.333,
+        "standardDeviation": 15591.6,
+        "kurtosis": 0.390868,
+        "skewness": 1.06424,
+        "entropy": 0.860141
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 86.7889,
+        "median": 255,
+        "standardDeviation": 16178.6,
+        "kurtosis": 0.404369,
+        "skewness": 1.03016,
+        "entropy": 0.935567
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 31.0767,
+        "median": 0,
+        "standardDeviation": 13369.6,
+        "kurtosis": 5.51901,
+        "skewness": 2.40044,
+        "entropy": 0.696875
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 101.489,
+        "median": 253,
+        "standardDeviation": 17226.7,
+        "kurtosis": -0.133566,
+        "skewness": 0.862083,
+        "entropy": 0.947982
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 320,
+      "height": 290,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "scene": 49,
+    "scenes": 50,
+    "compression": "Undefined",
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-06-21T16:25:53+00:00",
+      "date:modify": "2024-06-21T16:25:53+00:00",
+      "signature": "2ec5e612149a0b985af84b1bbdcc880961db94489b5d168bf1e4b981443514b9"
+    },
+    "tainted": false,
+    "filesize": "13.9231MB",
+    "numberPixels": "92800",
+    "pixelsPerSecond": "54792B",
+    "userTime": "2.090u",
+    "elapsedTime": "0:02.693",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]

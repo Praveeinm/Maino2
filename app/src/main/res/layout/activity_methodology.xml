@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    android:orientation="vertical"
+    tools:context=".MethodologyActivity">
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@color/white"
+        android:gravity="center"
+        android:text="@string/our_methodology"
+        android:textColor="@color/white"
+        android:textSize="43dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:text="@string/methodsecondstring"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp">
+
+                <ImageButton
+                    android:id="@+id/buttonleft"
+                    android:layout_width="48dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="50dp"
+                    android:onClick="buttonLeftClicked"
+                    android:background="@color/gradiantpurlpe"
+                    android:contentDescription="left"
+                    android:src="@drawable/baseline_arrow_back_ios_24"
+                    />
+                <ImageButton
+                    android:id="@+id/buttonright"
+                    android:layout_width="48dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_height="48dp"
+                    android:layout_marginRight="50dp"
+                    android:onClick="buttonRightClicked"
+                    android:background="@color/gradiantpurlpe"
+                    android:contentDescription="right"
+                    android:src="@drawable/baseline_arrow_forward_ios_24"
+                    />
+
+            </RelativeLayout>
+
+
+
+    <ViewFlipper
+        android:id="@+id/viewflipper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:autoStart="false"
+        android:layout_marginBottom="10dp"
+        android:inAnimation="@android:anim/slide_in_left">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            app:cardBackgroundColor="@color/gradiantpurlpe"
+            android:id="@+id/cardview1">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/method_outline"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="185dp"
+                    android:src="@drawable/method1"/>
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Cross Platform"
+                        android:textColor="@color/white"
+                        android:textSize="40dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="LLM model manage budget across multiple platforms Seasonality based budget pacing Optimise budget across a custom metric AI model based on historical learning"
+                        android:textColor="@color/white"
+                        android:textSize="25sp" />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/balance"
+                        android:layout_width="93dp"
+                        android:layout_height="62dp"
+                        android:layout_marginLeft="10dp"
+                        android:src="@drawable/balance" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/balance"
+                        android:layout_marginStart="99dp"
+                        android:paddingTop="5dp"
+
+                        android:text="Same budget, more conversions"
+                        android:textColor="@color/white"
+                        android:textSize="22sp" />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    >
+
+                    <ImageView
+                        android:id="@+id/people"
+                        android:layout_width="91dp"
+                        android:layout_height="55dp"
+                        android:layout_marginLeft="10dp"
+                        android:backgroundTint="@color/white"
+                        android:src="@drawable/people" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/people"
+                        android:layout_marginStart="99dp"
+                        android:paddingTop="5dp"
+                        android:layout_marginBottom="25dp"
+                        android:text="Convert visitors into shoppers"
+                        android:textColor="@color/white"
+                        android:textSize="22sp" />
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            app:cardBackgroundColor="@color/gradiantpurlpe"
+            android:id="@+id/cardview2">
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/method_outline"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="185dp"
+                        android:src="@drawable/method1"/>
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Targeting Unlocked"
+                        android:textColor="@color/white"
+                        android:textSize="40dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Leverage AI to precisely identify and expand your audience. Advanced algorithms and machine learning ensure accurate targeting, and interactions for effective marketing efforts."
+                        android:textColor="@color/white"
+                        android:textSize="25sp" />
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/balance1"
+                            android:layout_width="93dp"
+                            android:layout_height="62dp"
+                            android:layout_marginLeft="10dp"
+                            android:src="@drawable/balance" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/balance1"
+                            android:layout_marginStart="99dp"
+                            android:paddingTop="5dp"
+
+                            android:text="Refine Strategies"
+                            android:textColor="@color/white"
+                            android:textSize="22sp" />
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        >
+
+                        <ImageView
+                            android:id="@+id/people1"
+                            android:layout_width="91dp"
+                            android:layout_height="55dp"
+                            android:layout_marginLeft="10dp"
+                            android:backgroundTint="@color/white"
+                            android:src="@drawable/people" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/people1"
+                            android:layout_marginStart="99dp"
+                            android:paddingTop="5dp"
+                            android:layout_marginBottom="25dp"
+                            android:text="Broaden Reach"
+                            android:textColor="@color/white"
+                            android:textSize="22sp" />
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            app:cardBackgroundColor="@color/gradiantpurlpe"
+            android:id="@+id/cardview3">
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/method_outline"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="185dp"
+                        android:src="@drawable/method1"/>
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Creative Excellence"
+                        android:textColor="@color/white"
+                        android:textSize="40dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Generate cohort specific creatives using generative AI models and performance analysis for dynamic copy generation and optimization"
+                        android:textColor="@color/white"
+                        android:textSize="25sp" />
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/balance2"
+                            android:layout_width="93dp"
+                            android:layout_height="62dp"
+                            android:layout_marginLeft="10dp"
+                            android:src="@drawable/balance" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/balance2"
+                            android:layout_marginStart="99dp"
+                            android:paddingTop="5dp"
+
+                            android:text="Recommendations &amp; optimization"
+                            android:textColor="@color/white"
+                            android:textSize="22sp" />
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        >
+
+                        <ImageView
+                            android:id="@+id/people2"
+                            android:layout_width="91dp"
+                            android:layout_height="55dp"
+                            android:layout_marginLeft="10dp"
+                            android:backgroundTint="@color/white"
+                            android:src="@drawable/people" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/people2"
+                            android:layout_marginStart="99dp"
+                            android:paddingTop="5dp"
+                            android:layout_marginBottom="25dp"
+                            android:text="AI-Led Content Creation"
+                            android:textColor="@color/white"
+                            android:textSize="22sp" />
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="10dp"
+            app:cardBackgroundColor="@color/gradiantpurlpe"
+            android:id="@+id/cardview4">
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/method_outline"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="185dp"
+                        android:src="@drawable/method1"/>
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Analytics Engine"
+                        android:textColor="@color/white"
+                        android:textSize="40dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Streamline your data with Maino’s analytics engine. Gain actionable insights and a comprehensive understanding of your marketing data for real-time actions and maximum ROI."
+                        android:textColor="@color/white"
+                        android:textSize="25sp" />
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/balance3"
+                            android:layout_width="93dp"
+                            android:layout_height="62dp"
+                            android:layout_marginLeft="10dp"
+                            android:src="@drawable/balance" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/balance3"
+                            android:layout_marginStart="99dp"
+                            android:paddingTop="5dp"
+
+                            android:text="Performance Metrics &amp; Effectiveness"
+                            android:textColor="@color/white"
+                            android:textSize="22sp" />
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        >
+
+                        <ImageView
+                            android:id="@+id/people3"
+                            android:layout_width="91dp"
+                            android:layout_height="55dp"
+                            android:layout_marginLeft="10dp"
+                            android:backgroundTint="@color/white"
+                            android:src="@drawable/people" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/people3"
+                            android:layout_marginStart="99dp"
+                            android:paddingTop="5dp"
+                            android:layout_marginBottom="25dp"
+                            android:text="Customer Behavior &amp; Strategies"
+                            android:textColor="@color/white"
+                            android:textSize="22sp" />
+
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+
+
+
+
+    </ViewFlipper>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
